@@ -1,4 +1,4 @@
-# Filmes Nacionais API
+# Filmes Nacionais API <3
 
 ## Descrição
 Conforme a Constituição Federal, a mais importante lei que rege a sociedade brasileira, o acesso ao lazer e cultura é um direito do cidadão. No ano de 2018, considerando a relevância e impacto social deste direito, o Exame Nacional do Ensino Médio trouxe como tema da redação "Democratização do acesso ao cinema no Brasil", ampliando o debate e trazendo luz sobre o cumprimento efetivo da legislação e suas falhas, que não garantem o atendimento do propósito a que se destina.
