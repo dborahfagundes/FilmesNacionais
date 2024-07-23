@@ -12,7 +12,7 @@ Estudos apontam que o acesso à cultura é parte primordial para a integração 
   
 Visando o incentivo de projetos semelhantes desenvolvi para meu mini projeto do M4 do curso Programadores do amanhã, uma API de filmes nacionais.
 
-A ** API de Filmes Nacionais ** é uma aplicação simples desenvolvida com Node.js e Express que permite gerenciar uma coleção de filmes brasileiros. A API fornece endpoints para listar, adicionar, atualizar e excluir filmes da coleção.
+A **API de Filmes Nacionais** é uma aplicação simples desenvolvida com Node.js e Express que permite gerenciar uma coleção de filmes brasileiros. A API fornece endpoints para listar, adicionar, atualizar e excluir filmes da coleção.
 
 ## Funcionalidades
 
