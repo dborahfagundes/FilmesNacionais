@@ -1,7 +1,7 @@
 # Filmes Nacionais API
 
 ## Descrição
-Conforme a Constituição Federal, a mais importante lei que rege a sociedade brasileira, o acesso ao lazer e cultura é um direito do cidadão. No ano de 2018, considerando a relevância e impacto social deste direito, o Exame Nacional do Ensino Médio trouxe como tema da redação no ano de 2018  "Democratização do acesso ao cinema no Brasil", ampliando o debate e trazendo luz sobre o cumprimento efetivo da legislação e suas falhas, que não garantem o atendimento do propósito a que se destina.
+Conforme a Constituição Federal, a mais importante lei que rege a sociedade brasileira, o acesso ao lazer e cultura é um direito do cidadão. No ano de 2018, considerando a relevância e impacto social deste direito, o Exame Nacional do Ensino Médio trouxe como tema da redação "Democratização do acesso ao cinema no Brasil", ampliando o debate e trazendo luz sobre o cumprimento efetivo da legislação e suas falhas, que não garantem o atendimento do propósito a que se destina.
 
 Vários fatores contribuem para essa problemática, especialmente a desigualdade social. O alto investimento para garantir o acesso à cultura e lazer, como uma ida ao cinema ou teatro, por exemplo, tendem a centralizar esse privilégio apenas a elite. 
 E quando falamos sobre a democratização do cinema, apenas para elucidar um dos braços da cultura, entendemos a urgência do seu acesso não só como forma de entretenimento mas como estratégia de educação e ferramenta de transformação social, principalmente quando se fala de cinema nacional, que tem primado pela apresentação de um retrato fiel e didático da realidade brasileira.
