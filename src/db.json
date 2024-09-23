@@ -10,10 +10,7 @@
     {"id": 8, "titulo": "Relatos Selvagens", "diretor": "Damián Szifrón", "ano": 2014, "imagem": "relatos_selvagens.jpg"},
     {"id": 9, "titulo": "O Pagador de Promessas", "diretor": "Anselmo Duarte", "ano": 1962, "imagem": "o_pagador_de_promessas.jpg"},
     {"id": 10, "titulo": "O Auto da Compadecida", "diretor": "Guel Arraes", "ano": 2000, "imagem": "o_auto_da_compadecida.jpg"},
-    {"id": 11, "titulo": "Me Chame pelo Seu Nome", "diretor": "Luca Guadagnino", "ano": 2017, "imagem": "me_chame_pelo_seu_nome.jpg"},
     {"id": 12, "titulo": "Bye Bye Brasil", "diretor": "Carlos Diegues", "ano": 1979, "imagem": "bye_bye_brasil.jpg"},
-    {"id": 13, "titulo": "Se Eu Fosse Gay", "diretor": "Toni Venturi", "ano": 2013, "imagem": "se_eu_fosse_gay.jpg"},
-    {"id": 14, "titulo": "O Estudante", "diretor": "Tina L. H. Kim", "ano": 2010, "imagem": "o_estudante.jpg"},
     {"id": 15, "titulo": "Carandiru", "diretor": "Hector Babenco", "ano": 2003, "imagem": "carandiru.jpg"}
   ]
 }
