@@ -1,10 +1,9 @@
 {
-    "filmes": [
-      {"id": 1, "titulo": "Central do Brasil", "diretor": "Walter Salles", "ano": 1998},
-      {"id": 2, "titulo": "Cidade de Deus", "diretor": "Fernando Meirelles", "ano": 2002},
-      {"id": 3, "titulo": "Tropa de Elite", "diretor": "José Padilha", "ano": 2007},
-      {"id": 4, "titulo": "Que Horas Ela Volta?", "diretor": "Anna Muylaert", "ano": 2015},
-      {"id": 5, "titulo": "Bacurau", "diretor": "Kleber Mendonça Filho", "ano": 2019}
-    ]
-  }
-  
+  "filmes": [
+    {"id": 1, "titulo": "Central do Brasil", "diretor": "Walter Salles", "ano": 1998, "imagem": "central_do_brasil.jpg"},
+    {"id": 2, "titulo": "Cidade de Deus", "diretor": "Fernando Meirelles", "ano": 2002, "imagem": "cidade_de_deus.jpg"},
+    {"id": 3, "titulo": "Tropa de Elite", "diretor": "José Padilha", "ano": 2007, "imagem": "tropa_de_elite.jpg"},
+    {"id": 4, "titulo": "Que Horas Ela Volta?", "diretor": "Anna Muylaert", "ano": 2015, "imagem": "que_horas_ela_volta.jpg"},
+    {"id": 5, "titulo": "Bacurau", "diretor": "Kleber Mendonça Filho", "ano": 2019, "imagem": "bacurau.jpg"}
+  ]
+}
