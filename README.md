@@ -1,23 +1,63 @@
-# Filmes Nacionais API <3
+# Filmes Nacionais API
+O acesso ao lazer e à cultura é um direito garantido pela Constituição, mas a desigualdade social ainda limita esse direito no Brasil.
+O cinema, além de entretenimento, é uma poderosa ferramenta de educação e transformação social. Projetos como o Cinema de Rua buscam democratizar o acesso ao cinema, levando filmes nacionais a comunidades carentes. 
+Inspirada por essa ideia, desenvolvi uma API de Filmes Nacionais, que permite gerenciar uma coleção de filmes brasileiros, como parte do meu projeto no curso Programadores do Amanhã.
 
-## Descrição
-Conforme a Constituição Federal, a mais importante lei que rege a sociedade brasileira, o acesso ao lazer e cultura é um direito do cidadão. No ano de 2018, considerando a relevância e impacto social deste direito, o Exame Nacional do Ensino Médio trouxe como tema da redação "Democratização do acesso ao cinema no Brasil", ampliando o debate e trazendo luz sobre o cumprimento efetivo da legislação e suas falhas, que não garantem o atendimento do propósito a que se destina.
+## Tecnologias usadas
 
-Vários fatores contribuem para essa problemática, especialmente a desigualdade social. O alto investimento para garantir o acesso à cultura e lazer, como uma ida ao cinema ou teatro, por exemplo, tendem a centralizar esse privilégio apenas a elite. 
-E quando falamos sobre a democratização do cinema, apenas para elucidar um dos braços da cultura, entendemos a urgência do seu acesso não só como forma de entretenimento mas como estratégia de educação e ferramenta de transformação social, principalmente quando se fala de cinema nacional, que tem primado pela apresentação de um retrato fiel e didático da realidade brasileira.
+- **Node.js**: 14
+- **Express**: 4.19.2
+- **Cors**: 2.8.5
 
-Cabe salientar que existem, sim, alternativas que unem a necessidade de assegurar lazer, cultura e entretenimento de maneira acessível e incentivar o consumo do cinema nacional. Projetos como o Cinema de Rua exibem filmes às comunidades de cidades do interior do Brasil, onde não há salas de cinema, mediante o pagamento de ingressos com preços simbólicos ou até gratuitamente.
+## Como rodar a API
 
-Estudos apontam que o acesso à cultura é parte primordial para a integração social. Como seres sociais que somos, essa prática contribui para o bem-estar emocional, colaborando no combate a transtornos como depressão e solidão.
-  
-Visando o incentivo de projetos semelhantes desenvolvi para meu mini projeto do M4 do curso Programadores do amanhã, uma API de filmes nacionais.
+### 1. Clone o repositório
+```
+git clone https://github.com/dborahfagundes/FilmesNacionais.git
+```
+### 2. Inicie a API
+```
+npm run dev
+```
 
-A **API de Filmes Nacionais** é uma aplicação simples desenvolvida com Node.js e Express que permite gerenciar uma coleção de filmes brasileiros. A API fornece endpoints para listar, adicionar, atualizar e excluir filmes da coleção.
+A Api deve rodar no http://localhost:3000/api/filmes.
 
-## Funcionalidades
+![image](https://github.com/user-attachments/assets/fc7c7d30-5b85-4549-927d-39655802f80b)
 
-- **Listar Filmes**: Obter uma lista de todos os filmes disponíveis na coleção.
-- **Obter Filme por ID**: Recuperar detalhes de um filme específico pelo seu ID.
-- **Adicionar Filme**: Adicionar um novo filme à coleção.
-- **Atualizar Filme**: Atualizar as informações de um filme existente.
-- **Excluir Filme**: Remover um filme da coleção pelo seu ID.
+
+### 3. Teste os EndPoints
+Você pode usar o Postman ou o Insomnia para testar os EndPoints
+
+Metodo| Descrição | Endpoint
+---|---|---
+`POST`| Criar filme | `/api/filmes`
+`GET`| Retorna todos os filmes| `/api/filmes`
+`GET`| Retorna filme por ID| `/api/filmes/:id`
+`PUT`| Atualizar filme por ID| `/api/filmes/:id`
+`DELETE`| Deleta filme por ID| `/api/filmes/:id`
+
+* Body POST
+```
+{
+  "titulo": "Novo Filme", STRING
+  "diretor": "Diretor Exemplo", STRING
+  "ano": 2024, INTEGER
+  "imagem": "novo_filme.jpg" STRING (Opcional)
+}
+```
+
+* Body PUT
+```
+{
+  "titulo": "Filme Atualizado", STRING
+  "diretor": "Novo Diretor", STRING
+  "ano": 2023, INTEGER
+  "imagem": "filme_atualizado.jpg" STRING (Opcional)
+}
+```
+
+### Contribuição <3
+
+Sinta se a vontade para contribuir e adicionar funcionalidades. Crie uma nova branch para suas alterações e faça a pull request.
+
+Espero que goste!
