@@ -7,10 +7,9 @@
     {"id": 5, "titulo": "Bacurau", "diretor": "Kleber Mendonça Filho", "ano": 2019, "imagem": "bacurau.jpg"},
     {"id": 6, "titulo": "O Som ao Redor", "diretor": "Kleber Mendonça Filho", "ano": 2012, "imagem": "o_som_ao_redor.jpg"},
     {"id": 7, "titulo": "Aquarius", "diretor": "Kleber Mendonça Filho", "ano": 2016, "imagem": "aquarius.jpg"},
-    {"id": 8, "titulo": "Relatos Selvagens", "diretor": "Damián Szifrón", "ano": 2014, "imagem": "relatos_selvagens.jpg"},
-    {"id": 9, "titulo": "O Pagador de Promessas", "diretor": "Anselmo Duarte", "ano": 1962, "imagem": "o_pagador_de_promessas.jpg"},
-    {"id": 10, "titulo": "O Auto da Compadecida", "diretor": "Guel Arraes", "ano": 2000, "imagem": "o_auto_da_compadecida.jpg"},
-    {"id": 12, "titulo": "Bye Bye Brasil", "diretor": "Carlos Diegues", "ano": 1979, "imagem": "bye_bye_brasil.jpg"},
-    {"id": 15, "titulo": "Carandiru", "diretor": "Hector Babenco", "ano": 2003, "imagem": "carandiru.jpg"}
+    {"id": 8, "titulo": "O Pagador de Promessas", "diretor": "Anselmo Duarte", "ano": 1962, "imagem": "o_pagador_de_promessas.jpg"},
+    {"id": 9, "titulo": "O Auto da Compadecida", "diretor": "Guel Arraes", "ano": 2000, "imagem": "o_auto_da_compadecida.jpg"},
+    {"id": 10, "titulo": "Bye Bye Brasil", "diretor": "Carlos Diegues", "ano": 1979, "imagem": "bye_bye_brasil.jpg"},
+    {"id": 11, "titulo": "Carandiru", "diretor": "Hector Babenco", "ano": 2003, "imagem": "carandiru.jpg"}
   ]
 }
