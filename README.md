@@ -20,13 +20,15 @@ git clone https://github.com/dborahfagundes/FilmesNacionais.git
 npm run dev
 ```
 
-A Api deve rodar no http://localhost:3000/api/filmes.
+A Api deve rodar no http://localhost:3000.
 
 ![image](https://github.com/user-attachments/assets/fc7c7d30-5b85-4549-927d-39655802f80b)
 
 
 ### 3. Teste os EndPoints
 Você pode usar o Postman ou o Insomnia para testar os EndPoints
+
+![image](https://github.com/user-attachments/assets/6cb72836-bdc6-429f-8ff5-91be0ff4a14a)
 
 Metodo| Descrição | Endpoint
 ---|---|---
